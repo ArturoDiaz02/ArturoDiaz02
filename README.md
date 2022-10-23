@@ -40,6 +40,8 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/spring.svg" alt="spring" width="40" height="40"/> </a>
 <!-- Node -->
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+ <!--C# -->
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" height="40"/> </a>
 </p>
 
 <h4>- Data bases</h4>
@@ -64,8 +66,6 @@
 <a href = "https://visualstudio.microsoft.com/es/vs/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vcode19" width="40" height="40" ></a> 
 <!-- Android studio  -->
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<!-- Heroku  -->
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <!-- Adobe xd  -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <!-- Intellij  -->
