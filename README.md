@@ -36,8 +36,6 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!-- React.js -->
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg" alt="react" width="40" height="40"/> </a>
-<!-- Spring -->
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/spring.svg" alt="spring" width="40" height="40"/> </a>
 <!-- Node -->
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
  <!--C# -->
@@ -66,8 +64,6 @@
 <a href = "https://visualstudio.microsoft.com/es/vs/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vcode19" width="40" height="40" ></a> 
 <!-- Android studio  -->
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<!-- Adobe xd  -->
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <!-- Intellij  -->
 <a href = "https://www.jetbrains.com/idea/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/intellij.svg" alt="idea"  width="40" height="40" ></a> 
 <!-- Pycharm  -->
