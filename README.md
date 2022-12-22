@@ -82,8 +82,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArturoDiaz02&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="ArturoDiaz02" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturoDiaz02&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="ArturoDiaz02" width="37%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArturoDiaz02&theme=react&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" width="60%"/>
 <!--
 **ArturoDiaz02/ArturoDiaz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
