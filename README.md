@@ -13,7 +13,7 @@
 ### I am a Software System Engineer Student
 
 
-- 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, Machine Learning, Frontend ⚡️
+- 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, Machine Learning, Backend ⚡️
 - 👯 I’m looking to collaborate on open source proyects
 - 🔭 I’m currently working on ... (it's a secret yet 😝)
 - 💬 Ask me about **anything you want!!**
